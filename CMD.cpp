@@ -18,6 +18,8 @@ void CMD_Way::GetOS()
 	getline(file, line);
 	line = "chcp " + line.substr(line.rfind(" "),std::string::npos);
 	system(line.c_str());
+	file.close();
+	remove("0.tmp");
 	return;
 }
 
