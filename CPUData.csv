@@ -1,0 +1,6 @@
+9;x64 (AMD or Intel)
+5;ARM
+12;ARM64
+6;Intel Itanium-based
+0;x86
+0xffff;Unknown architecture. 

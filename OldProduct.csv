@@ -1,0 +1,15 @@
+5;0;Server
+5;0;0x02;Advanced Server
+5;0;0x080;Datacenter Server
+5;1;Professional
+5;1;0x0200;Home Edition
+5;2;9;Standard x64 Edition
+5;2;6;0x02;Enterprise Edition for Itanium-based Systems
+5;2;6;0x080;Datacenter Edition for Itanium-based Systems
+5;2;9;0x02;Enterprise x64 Edition
+5;2;9;0x080;Datacenter x64 Edition
+5;2;Standard Edition
+5;2;0x02;Enterprise Edition
+5;2;0x0400;Web Edition
+5;2;0x04000;Compute Cluster Edition
+5;2;0x080;Datacenter Edition
